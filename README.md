@@ -7,6 +7,16 @@ Scripts for Rails app production environment install on CentOS.
 
  *  CentOS 6.x
 
+## Tech Stack
+
+ *  Ruby
+ *  Rails
+ *  MySQL
+ *  Passenger
+ *  Nginx
+ *  ImageMagick
+ *  Redis
+
 ## License
 
 Copyright (c) zhaqiang.
