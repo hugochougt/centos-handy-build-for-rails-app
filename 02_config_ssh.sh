@@ -49,7 +49,7 @@ chmod 600 ~/.ssh/authorized_keys
 chmod 700 ~/.ssh
 
 echo 'Restarting ssh service'
-sudo service ssh restart
+sudo service sshd restart
 
 echo 'ssh config done'
 echo 'Now, copy your local public key to authorized_keys file on your server'
